@@ -20,6 +20,9 @@ cd Billed-app-FR-Back
 npm install
 ```
 
+### Pour windows installer : 
+npm i -g win-node-env
+
 ### Lancer l'API :
 
 ```
